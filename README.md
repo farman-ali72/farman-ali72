@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Farman Ali</h1>
+<h3 align="center">Aspiring Front-End Developer | Learning JavaScript & React</h3>
 
-<!--
-**farman-ali72/farman-ali72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:  
+**JavaScript**, **HTML/CSS**, **React.js**, **Node.js**, and **Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I love building small real-world projects to improve my logic and frontend skills.
+
+👨‍💻 All of my work is available on my GitHub:  
+🔗 [github.com/farman-ali72](https://github.com/farman-ali72)
+
+📫 Reach me at:  
+✉️ **farmanali72@gmail.com**
+
+🛠️ Tools & Technologies:  
+`HTML` • `CSS` • `JavaScript` • `Bootstrap` • `GitHub` • `VS Code`
+
+---
+
+### 🧠 Featured Projects
+
+- ✅ [Age Category Checker](https://github.com/farman-ali72)
+- 🚧 More projects coming soon...
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farman-ali-4ba121361/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/farman-ali72)
+
+---
+
+> *“Code. Learn. Improve. Repeat.” — My Journey as a Developer Begins 🚀*
