@@ -12,7 +12,7 @@
 🔗 [github.com/farman-ali72](https://github.com/farman-ali72)
 
 📫 Reach me at:  
-✉️ **farmanali72@gmail.com**
+✉️ **codingwithfa.72@gmail.com**
 
 🛠️ Tools & Technologies:  
 `HTML` • `CSS` • `JavaScript` • `Bootstrap` • `GitHub` • `VS Code`
